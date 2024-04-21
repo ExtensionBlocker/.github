@@ -42,7 +42,8 @@
 <br><br>
 
 ## 🖥️View
-<img width="834" alt="스크린샷 2024-04-20 오후 5 21 09" src="https://github.com/ExtensionBlocker/.github/assets/80161984/3bed3c6a-91cd-4a3b-9245-636260ab37e0">
+![스크린샷 2024-04-21 오후 3 13 20](https://github.com/ExtensionBlocker/.github/assets/80161984/f34c6dbf-4877-4877-82e5-d2f99bfef331)
+
 
 ## 🔑사용기술
 
